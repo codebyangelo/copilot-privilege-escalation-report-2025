@@ -2,7 +2,7 @@
 
 
 
-## Security Incident Report: Analysis of the Copilot Enterprise Privilege Escalation (July 2025)
+### Security Incident Report: Analysis of the Copilot Enterprise Privilege Escalation (July 2025)
 
 **Date of Report:** July 28, 2025
 
